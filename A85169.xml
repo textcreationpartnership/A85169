@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A beacon set on fire: or The humble information of certain stationers, citizens of London, to the Parliament and Commonwealth of England. Concerning the vigilancy of Jesuits, papists, and apostates, (taking advantage of the divisions among our selves and the states great employment,) to corrupt the pure doctrine of the Scriptures. Introduce the whole body of popish doctrine &amp; worship. Seduce the subjects of this Commonwealth unto the popish religion, or that which is worse. By writing and publishing many popish books, (printed in England in the English tongue within these three last years, therein maintaining all the gross points of popery, ... And blasphemous books of another nature: all made evident by the catalogue and contents of many of the aforesaid books added hereunto. Published for the service of the Parliament and commonwealth. Hoping that the Parliament by sufficient laws, ... will set themselves ... to maintain the faith that was once delivered to the saints against all the enemies thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85169</idno>
+            <idno type="STC">Wing F564</idno>
+            <idno type="STC">Thomason E675_14</idno>
+            <idno type="STC">ESTC R202095</idno>
+            <idno type="EEBO-CITATION">99862502</idno>
+            <idno type="PROQUEST">99862502</idno>
+            <idno type="VID">114663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114663)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E675[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A beacon set on fire: or The humble information of certain stationers, citizens of London, to the Parliament and Commonwealth of England. Concerning the vigilancy of Jesuits, papists, and apostates, (taking advantage of the divisions among our selves and the states great employment,) to corrupt the pure doctrine of the Scriptures. Introduce the whole body of popish doctrine &amp; worship. Seduce the subjects of this Commonwealth unto the popish religion, or that which is worse. By writing and publishing many popish books, (printed in England in the English tongue within these three last years, therein maintaining all the gross points of popery, ... And blasphemous books of another nature: all made evident by the catalogue and contents of many of the aforesaid books added hereunto. Published for the service of the Parliament and commonwealth. Hoping that the Parliament by sufficient laws, ... will set themselves ... to maintain the faith that was once delivered to the saints against all the enemies thereof.</title>
+                  <author>Fawne, Luke, d. 1666.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the subscribers hereof,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: Luke Fawne. Samuel Gellibrand. Joshua Kirton. John Rothwell. Thomas Vnderhill. Nathaniel Webb.</note>
+                  <note>One of a series in a controversy over the publication of seditious or blasphemous works.</note>
+                  <note>The words "corrupt the pure doctrine .. that which is worse." are bracketed together on title page.</note>
+                  <note>Includes bibliography.</note>
+                  <note>Line 11 of title ends "&amp; worship.". Variant: lacking period after "worship".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 21".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Stationers' Company (London, England) --  Early works to 1800.</term>
+               <term>Prohibited books --  England --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  London --  Early works to 1800.</term>
+               <term>Censorship --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114663:1" rendition="simple:additions"/>
+            <p>A Beacon Set On Fire: OR The Humble Information of certain Stationers, Citizens of <hi>London,</hi> to the Parliament and Commonwealth of <hi>ENGLAND.</hi>
+            </p>
+            <p>Concerning the Vigilancy of Jeſuits, Papiſts, and Apo<g ref="char:EOLhyphen"/>ſtates, (taking advantage of the Diviſions among our ſelves and the <hi>States</hi> great Employment,) To
+<list>
+                  <item>Corrupt the pure Doctrine of the Scriptures.</item>
+                  <item>Introduce the whole Body of Popiſh Doctrine &amp; Worſhip.</item>
+                  <item>Seduce the Subjects of this Commonwealth unto the Po<g ref="char:EOLhyphen"/>piſh Religion, or that which is worſe.</item>
+               </list>
+            </p>
+            <p>
+               <hi>By Writing and Publiſhing many Popiſh Books,</hi> (Printed in <hi>England</hi> in the Engliſh Tongue within theſe three laſt Years, therein maintaining all the groſs Points of Popery, urging a neceſſity for all to receive them upon pain of Damnation, pro<g ref="char:EOLhyphen"/>claiming in one of them, that the <hi>Parliament</hi> have diſcharg'd the people of this Nation from the common profeſſed Reli<g ref="char:EOLhyphen"/>gion thereof; boaſting of many eminent men that are lately converted to their Religion, and ex<g ref="char:EOLhyphen"/>preſſing the hopes they have of a great flowing in of people unto them.)</p>
+            <p>
+               <hi>And Blaſphemous Books of another Nature:</hi> All made evident by The Catalogue and Contents of many of the afore<g ref="char:EOLhyphen"/>ſaid Books added hereunto.</p>
+            <p>
+               <hi>Publiſhed for the Service of the Parliament and Commonwealth.</hi>
+            </p>
+            <p>Hoping that the Parliament by ſufficient Laws, and the Lords Mi<g ref="char:EOLhyphen"/>niſters and People by their Preaching and Prayers, will ſet them<g ref="char:EOLhyphen"/>ſelves (upon this Alarum that the Enemy gives) to maintain the Faith that was once delivered to the Saints againſt all the Ene<g ref="char:EOLhyphen"/>mies thereof.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Subſcribers hereof. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="charge">
+            <pb facs="tcp:114663:2"/>
+            <pb n="3" facs="tcp:114663:2"/>
+            <head>The humble Information of certain Stationers, Citizens of <hi>London,</hi> to the Parliament and Commonwealth of <hi>England,</hi> concerning Popiſh and Blaſphemous Books.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ardent affection that we bear unto the <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>1</label> true Reformed Chriſtian Religion taught in the holy Scriptures, the operation and ſweetneſs whereof upon our hearts, we have an experimental knowledg, taſte and feeling of through the Holy Ghoſt, to the eternal praiſe of the grace of God; which Religion through the ſame effectual working hath been ſealed with the blood of ſo many holy Martyrs: The tender love we bear to our own native Country and Relations, being paſſionately de<g ref="char:EOLhyphen"/>ſirous that the Kingdom of our Lord Jeſus may flou<g ref="char:EOLhyphen"/>riſh in this Nation unto the end of the World, that ſo the future generations enjoying the light of his glori<g ref="char:EOLhyphen"/>ous Goſpel and Ordinances, may through his grace walk in that light unto the Kingdom of Glory: And laſtly, the juſt fear we have leſt Popiſh &amp; Blaſphemous Books ſhould grow ſo numerous, as to become a conſi<g ref="char:EOLhyphen"/>derable (if not the greateſt) part of our Trade, and ſo we be tempted to be Venders of ſuch Loathſom Ware, or elſe neceſſitated to leave our Callings to keep our Conſciences pure: Theſe Conſiderations have put us upon giving this Information following, <hi>to the Parlia<g ref="char:EOLhyphen"/>ment and Commonwealth of England,</hi> concerning the late publiſhing and printing many Popiſh and Blaſphemous Books in <hi>England</hi> in the Engliſh Tongue, which other<g ref="char:EOLhyphen"/>wiſe perhaps they would not ſo ſoon come to the knowledg of, that they might ſuppreſs them.</p>
+            <p>
+               <pb n="4" facs="tcp:114663:3"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>2</label> Hoping it will be well taken, becauſe it is a matter of ſuch unſpeakable concernment, as Gods ſtaying with theſe Nations, or departing from them, the Salvation or Damnation of millions of Souls; and becauſe the Members of the Parliament, to whom we chiefly in<g ref="char:EOLhyphen"/>tend this our humble Information, are by Profeſſion of the Reformed Chriſtian Religion, in oppoſition to Popery, who have in all their Declarations ever ſince the beginning of the late troubles, held forth the main<g ref="char:EOLhyphen"/>taining thereof as one end of the War; and have de<g ref="char:EOLhyphen"/>moliſhed Popiſh Pictures, that men might not learn Popery by them; put men to death for being obliged by Office to aſſert the Popes Supremacy, made a great<g ref="char:EOLhyphen"/>er Profeſſion of Sanctity then any Parliament that e<g ref="char:EOLhyphen"/>ver ſat before them, and of aiming at the higheſt de<g ref="char:EOLhyphen"/>grees of Reformation, even beyond Presbytery it ſelf.</p>
+            <p>Yea our hopes aſcend higher, to wit, That that great Accuſation of the Parliament in one of the Popiſh Books [namely, <hi>That God hath put a period to the com<g ref="char:EOLhyphen"/>mon profeſſed Religion of this Nation, and that by Autho<g ref="char:EOLhyphen"/>rity of</hi> PARLIAMENT,] will be by publique Demonſtrations confuted; the Parliament well know<g ref="char:EOLhyphen"/>ing, that the common people of this Nation will be of one Religion or other; and if by publique Authority they be not kept to the Reformed Religion, they'l be eaſily drawn to the Popiſh: When an old Religion is out of credit with a State, the multitude will welcome the Introducers of a new; and if once the Approvers of Popery ſhould grow moſt numerous, how then can we have other then a Popiſh Parliament, and a Popiſh Army? Or if the Parliament ſhould be Proteſtant, yet how could it rule or be ſafe, ſith the ſtrength of the ſu<g ref="char:EOLhyphen"/>pream Magiſtrate lieth in his Subjects? And if once the Romiſh Religion ſhould prevail, then farewel the
+<pb n="5" facs="tcp:114663:3"/>
+holy Bible in our Mother Tongue, and Sacraments in both kinds, or ſo much as in one, otherwiſe then as a viſible real material Sacrifice both for the quick and the dead: Then no more preaching and Catechizing in Engliſh out of the pure Fountain of the Scripture; we muſt part with theſe ineſtimable Treaſures for the filth of <hi>Egypt, viz.</hi> the Romiſh Church for the Rule and Standard of our <hi>Faith,</hi> and her Service in Latin, with all the rabble of her Will-worſhip and Superſti<g ref="char:EOLhyphen"/>tion, for our <hi>Practice;</hi> which if we ſhall not like of as the beſt, we ſhall for our ſatisfaction be ſent to the In<g ref="char:EOLhyphen"/>quiſition, there adjudged to be Hereticks, and ſo paſt their cure; and then, as if it were pity to leave us ſo, tender-hearted fathers as they are! they'l turn us over to the ſecular Power, who will quickly rid themſelves and their Church of us, the ſame way as they did our re<g ref="char:EOLhyphen"/>nowned Progenitors in Q. <hi>Mary's</hi> days. And then what will become of the Souls of our dear children, and the poſterity that ſhall ſucceed us, when they ſhall want the means of their Converſion and Salvation, <hi>viz.</hi> the pure Goſpel and Ordinances of Jeſus Chriſt, which every godly parent and Commonwealthſman had rather leave unto his children, then the greateſt earthly Inheri<g ref="char:EOLhyphen"/>tance that ever man was born to.</p>
+            <p>Having thus in all humility declared our ſelves by <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>3</label> way of Introduction, we do hereby faithfully inform the Parliament and Commonwealth of <hi>England,</hi> That <q>while the people of God in this Land have vented their heat againſt each other about leſſer points <hi>in Di<g ref="char:EOLhyphen"/>vinity,</hi> and the Parliament and Army conflicted by Councel &amp; Force with many Enemies in reference to publike Liberty, wherby the great care, that otherwiſe might have been had of the Lords Vineyard, hath been hindred; the old vanquiſh'd Popiſh Party, Jeſuits and
+<pb n="6" facs="tcp:114663:4"/>
+Papiſts, are unawares with indefatigable pains endea<g ref="char:EOLhyphen"/>voring all along to entice the people of this Com<g ref="char:EOLhyphen"/>monwealth unto the Popiſh Religion, and have made ſuch great progreſs therein by ways known not only to God, but (as we conceive) wiſe men alſo, as that now they have taken the boldneſs to publiſh among the people of this Nation divers Impreſſions of ſeve<g ref="char:EOLhyphen"/>ral ſorts of Popiſh Books in the Engliſh Tongue, and printed in <hi>England</hi> within theſe laſt three Years, to the number of (as we gueſs, reckoning 1500 to an Impreſſion of each Book that hath been in that time printed) Thirty thouſand at leaſt:</q> As if they were now confident of compleating their deſign, and as if (in their opinion of us) we were yet to ſeek whether the Popiſh or Reformed Religion were the right Religion, and were aſhamed of the former Zeal of Church and State to preſerve the people of this Commonwealth from Romiſh Doctrine, Worſhip and Tyranny; and did now think their natures and Religion more milde then when ſo much Blood of our now glorious An<g ref="char:EOLhyphen"/>ceſtors was in cool blood moſt inhumanely ſhed by them, for holding, that the Pope and his Biſhops could not make an Article of Chriſtian Faith, much leſs were to be beleeved or obeyed in things contrary to the Ca<g ref="char:EOLhyphen"/>non of the Scripture; or, that the very body of Chriſt now glorified in Heaven was not in ten thouſand places at one time upon earth: of many of which Popiſh Books both their Titles and Contents, we do hereafter give a Catalogue, and do keep in our cuſtody one of each to make good our Information, if ſo commanded: And al<g ref="char:EOLhyphen"/>though upon the Titles of moſt of the Books there be <hi>Paris,</hi> or other places beyond the Sea, prefixed, as if they were printed there; yet we, and all the Bookſel<g ref="char:EOLhyphen"/>lers and Printers in <hi>London,</hi> that have ſeen or ſhall ſee
+<pb n="7" facs="tcp:114663:4"/>
+them, do upon ſuch ſight know that they are printed in <hi>London:</hi> And the Founders of Printing-letters that live in <hi>London,</hi> do infallibly know, that the letters with which the ſaid Books are printed, were by them caſt and made in <hi>London.</hi>
+            </p>
+            <p>The Premiſſes conſidered, we do humbly pray the <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>4</label> Parliament, for the ſake of our dear Saviour Jeſus Chriſt, in behalf of our ſelves, and all the many thou<g ref="char:EOLhyphen"/>ſands of Gods people in <hi>England;</hi> yea and again, moſt heartily implore the Parliament, and every Member thereof, by Gods and mans expectations, your own publique Profeſſions and Engagements, and as ever you expect to appear before God with comfort, who hath put power into your hands to do much for his beloved Spouſe and Cauſe; That you would ſtir up your Strength and your Zeal againſt the Ene<g ref="char:EOLhyphen"/>mies of both the Souls and Bodies of the people of this Commonwealth, By ſuppreſſing Popiſh and Blaſphemous Books, which are the Nurſery of Error, Idolatry, and Rebellion, Putrefaction and Shame of a Nation, Provocation of Divine Vengeance, and High-way to eternal Perdition: And that if the Act now depending, concerning the <hi>Company of Stationers and Printing,</hi> do not make ample proviſion in the Premiſſes, it may be accommo<g ref="char:EOLhyphen"/>dated to the aforeſaid purpoſe, as well as any other: And to the end ſo good a work may be accompliſhed, and effectual means may be applyed, we ſhall humbly offer our Propoſals (if commanded) how it maybe done, without any trouble or charge to the State; In the mean time begging leave, that without offence we may ſay, we humbly conceive, that we ſhall deſpair of ever ſeeing a ſufficient Redreſs in this caſe, unleſs
+<pb n="8" facs="tcp:114663:5"/>
+the way of Licenſing Books, by faithful able men that are ſound in the faith, be ſtrictly enjoyn'd, and an equi<g ref="char:EOLhyphen"/>table penalty layd upon all that print and publiſh, or cauſe to be printed and publiſhed, any Book not Licen<g ref="char:EOLhyphen"/>ſed, and the ſaid penalty to be recovered by any that ſhall proſecute the Offender at the Common-Law, with good encouragement to the Proſecuter.</p>
+            <p>And laſtly, Leaſt the Parliaments great Affairs a<g ref="char:EOLhyphen"/>bout War and Peace ſhould hinder ſuch inconſiderable Informers as we are from being heard, we do beg (in the Name of Chriſt) of all perſons, of all degrees, whe<g ref="char:EOLhyphen"/>ther Miniſters of the Goſpel, Gentlemen, or others, by what Names ſoever diſtinguiſhed, that are or would be eſteemed real Friends to true Religi<g ref="char:EOLhyphen"/>on, the Parliament and Commonwealth of <hi>England,</hi> That they would improve all the intereſt they have both in God and men in authority, for the effectual Suppreſſion of Popiſh Books, and ſtopping the growth of Popery.</p>
+            <p>The ſame Requeſt to the Parliament and aforeſaid Perſons we humbly deſire may extend unto other Blaſphemous Books alſo; The Names and Blaſphe<g ref="char:EOLhyphen"/>mies of ſome of which we likewiſe herewith tender.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Luke Fawne.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Gellibrand.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſhua Kirton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Rothwell.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas <g ref="char:V">Ʋ</g>nderhill.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel Webb.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="catalogue_of_books">
+            <pb n="9" facs="tcp:114663:5"/>
+            <head>The Catalogue and Contents of ſome of thoſe Popiſh Books that have been publiſhed in the Engliſh Tongue within theſe three laſt Years, and Printed in ENGLAND.</head>
+            <p n="1">1. <hi>THe Golden Treatiſe of</hi> Vincentius Lirinenſis, 1651.</p>
+            <p n="2">2. <hi>The Verity of Chriſtian Faith,</hi> 1651.</p>
+            <p n="3">3. <hi>The Felicity of a Christian Life,</hi> 1651.</p>
+            <p n="4">4. <hi>The Profit of Beleeving,</hi> 1651.</p>
+            <p n="5">5. <hi>Saint</hi> Auſtin's <hi>Care for or the Dead,</hi> 1651.</p>
+            <p>All which forementioned Books have more or leſs in them in favor of the Popiſh Religion, as cun<g ref="char:EOLhyphen"/>ningly inſinuating, that the Romiſh Church is that Univerſal Church to which all muſt neceſſa<g ref="char:EOLhyphen"/>rily adhere, &amp;c.</p>
+            <p n="6">6. <hi>Parſon's Reſolutions,</hi> as he firſt put it forth with<g ref="char:EOLhyphen"/>out <hi>Bunny</hi>'s Correction.</p>
+            <p n="7">7. <hi>Sales</hi> his <hi>Introduction;</hi> a Book burn'd as Popiſh in the late Arch-Biſhops days, as having many of the groſs Points of Popery in it.</p>
+            <p n="8">8. <hi>The Holy Court;</hi> which Book, with the other two foregoing it, are ſo well known to many Schollers and judicious men in <hi>England</hi> to abound with Popiſh Errors, that we need but name them.</p>
+            <p n="9">9. <hi>The loſt Sheep returned home,</hi> or <hi>the motives of the Converſion to the Catholike Faith of</hi> Tho: Vaine, <hi>D. D.</hi> Laboring by a great ſhew of Learning and Argumen<g ref="char:EOLhyphen"/>tation to evince the Popiſh Religion to be the onely true Religion, the Church of <hi>Rome</hi> the onely true
+<pb n="10" facs="tcp:114663:6"/>
+Church, and infallible; maintaining Latin Service, the Communion in one kind, and moſt of the groſſeſt points of Popery.</p>
+            <p n="10">10. <hi>A Miſsive to his Majeſty K.</hi> James, by Dr <hi>Carrier,</hi> written 39 years ago, and reprinted 1649. containing the Motives of his Converſion to the Roman Religion, with Inducements to that King to turn Papiſt: The Publiſher endevoring to make <hi>Luther, Calvin, Beza,</hi> &amp;c. odious; inferring from <hi>Mechanicks Claim to the Pulpit,</hi> the Diſagreement that is among our ſelves, and the miſcarriages of particular perſons; That our Religion is falſe; glorying much in the Converſion of many Proteſtants to Popery of late; as, Dr <hi>Vaine, Hugh Paulin, Hen: Ireſon, N. Read,</hi> Mr <hi>Rich: Nicholls,</hi> Mr <hi>Rich: Mileſent,</hi> Mr <hi>Rich: Craſhaw,</hi> Mr <hi>Will: Rowlands,</hi> Mr <hi>Thomas Normington,</hi> Mr <hi>Joyner,</hi> Mr <hi>Blakiſtone,</hi> Mr <hi>Edward Barker,</hi> Mr <hi>Eaton,</hi> Mr <hi>Peter Glue,</hi> Mr <hi>Jack<g ref="char:EOLhyphen"/>ſon,</hi> Mr <hi>Cooper,</hi> Mr <hi>Jo: Crighton,</hi> Mr <hi>Andrew Youngston,</hi> Mr <hi>Hugh Roſs,</hi> Mr <hi>Tho: Johnſton,</hi> Mr <hi>William Simple:</hi> Perſwading, that things being fallen to ſuch an uncon<g ref="char:EOLhyphen"/>ceivable Confuſion in <hi>England,</hi> it is no matter of won<g ref="char:EOLhyphen"/>der that ſo many turn to Popery, but that more do not follow.</p>
+            <p n="11">11. <hi>The Love of the Soul,</hi> by <hi>G. M.</hi> The whole ſcope of the Book is to perſwade people, That the Church of <hi>Rome</hi> is the one only true Church, and that ſeparation from her is ſinful and damnable; and at the end of it are prefixed ſome Popiſh Queſtions in Rhyme, which were anſwered by Mr <hi>Samuel Hiron</hi> forty years ago.</p>
+            <p n="12">
+               <pb n="11" facs="tcp:114663:6"/>12. <hi>A Manifeſt touching Mr</hi> W. P. <hi>Averſion from the Proteſtant Congregation, and his Converſion to the Ca<g ref="char:EOLhyphen"/>tholique Church:</hi> Maintaining all the groſs Points in Popery, affirming the Roman Church to be the only true Church, to which all muſt joyn, from which none muſt ſeparate upon pain of Damnation; That ſhe is infallible, and cannot teach any thing repugnant to the Word of God, no more then God can teach contrary to himſelf; And that Proteſtants have no true Scrip<g ref="char:EOLhyphen"/>ture to build their Faith on.</p>
+            <p n="13">13. <hi>The Examination of the late Act of the Convoca<g ref="char:EOLhyphen"/>tion at Oxford, containing their Reaſons againſt the Scot<g ref="char:EOLhyphen"/>iſh Covenant and Presbytery.</hi>
+            </p>
+            <p>The whole drift of this Book is to deny our Reli<g ref="char:EOLhyphen"/>gion to be true, becauſe of the Diſunion between the Epiſcopalians and the Presbyterians; To ſlander and reproach our Captains that led us out of Romiſh <hi>E<g ref="char:EOLhyphen"/>gypt;</hi> aſſert Traditions in the Popiſh ſence, the Sacra<g ref="char:EOLhyphen"/>ment of the Maſs, Prayers for the Dead, Purgatory, and Invocation of Saints.</p>
+            <p n="14">14. A Treatiſe entituled, <hi>The Right Religion Evinced,</hi> by <hi>L. B.</hi> 1652. Tending to prove, That the Romiſh Church is the true and only Catholique Church, In<g ref="char:EOLhyphen"/>fallible Ground and Rule of Faith; maintaining the Real Preſence, Adoration and Bowing to the Hoaſt, Altars, Images, Reliques, worſhipping of and praying to Angels, and Saints departed; aſſerting a perfect keeping of the Commandments, The Prieſts power to forgive Sins in a proper ſence, and humane merits; Denying the Actions of Beleevers in Covenant to be Duties, Juſtifying the Receiving the Communion un<g ref="char:EOLhyphen"/>der
+<pb n="12" facs="tcp:114663:7"/>
+one kind, acknowledging Chriſts Inſtitution to be otherwiſe, but not binding; and that all this muſt be yeelded to if a man would be ſaved.</p>
+            <p n="15">15. <hi>Prayer to the Saints Vindicated,</hi> by <hi>F. P.</hi> 1652. Affirms the Lawfulneſs and Duty of praying to Saints and Angels; <hi>That the Saints in Heaven know the ſecrets of the hearts of men upon Earth; That the Saints in Hea<g ref="char:EOLhyphen"/>ven that were poor on Earth have ſuch power and authority by their prayers in Heaven, as to receive into Heaven what faithful rich men they pleaſe;</hi> That <hi>thoſe that perſevere in the denyal of this Doctrine of Prayer to Saints, muſt periſh everlaſtingly in Hell, where the Saints ſhall ſee them, and rejoyce in their torment;</hi> And <hi>that no Honor, Wor<g ref="char:EOLhyphen"/>ſhip, Adoration, Proſtration both of Body and Soul, is to be denyed the Saints and Angels, but only viſible Sacrifice, which is (ſaid to be) due to God alone.</hi>
+            </p>
+            <p n="16">16. <hi>A prudent and ſecure Choyce, being a ſure Land<g ref="char:EOLhyphen"/>mark to all thoſe who have been toſſed to and fro in theſe wavering times,</hi> by <hi>H. G.</hi> 1650. Beginning his Pro<g ref="char:EOLhyphen"/>logue thus, <hi>viz.</hi> Sir, <hi>Since it hath pleaſed God to put a period to the common profeſſed Religion of this Nation, and that by Authority of</hi> PARLIAMENT: in Capi<g ref="char:EOLhyphen"/>tals the Papiſt prints it, and ſo we re-print it, that the Parliament might take notice of it. The Book affirms, <hi>That what the Church of Rome holds forth as matters of Faith, are</hi> Therefore <hi>to be beleeved as infallible Truths:</hi> Pleads for <hi>real corporeal preſence in the Euchariſt,</hi> and <hi>offering up Chriſt in the Maſs as a due Sacrifice;</hi> main<g ref="char:EOLhyphen"/>tains <hi>Auricular Confeſsion, the viſible Headſhip of the Pope, Prayer to Saints departed, Worſhip to Images, Pur<g ref="char:EOLhyphen"/>gatory, Free-will, Merit of good Works, Tradition, Indul<g ref="char:EOLhyphen"/>gencies;</hi>
+               <pb n="13" facs="tcp:114663:7"/>
+That <hi>Scripture is unſufficient to declare its own ſence in things that muſt be beleeved upon pain of Damna<g ref="char:EOLhyphen"/>tion;</hi> and that <hi>therefore the Church and the Church of</hi> Rome <hi>is the only infallible Rule both to know what is the Word of God, and the ſence thereof, and what is to be be<g ref="char:EOLhyphen"/>leeved;</hi> and that <hi>upon the belief of all this depends our everlaſting welfare.</hi>
+            </p>
+            <p n="17">17. A Treatiſe of <hi>Schiſm,</hi> by <hi>Scot.</hi>
+            </p>
+            <p n="18">18. <hi>The Chriſtian Sodality,</hi> or <hi>Catholique Hive of Bees,</hi> by <hi>E. P.</hi> alias <hi>Gage,</hi> as is ſaid; Which expounds the Popiſh Primmer, juſtifies their Popiſh Days, Wor<g ref="char:EOLhyphen"/>ſhip, and the whole Religion of Popery: printed 1652.</p>
+            <p n="19">19. <hi>The Chriſtian Moderator,</hi> printed 1652. the fourth Edition. <hi>Pleading</hi> for a Toleration of the Popiſh Religion; <hi>maintaining</hi> the real corporeal pre<g ref="char:EOLhyphen"/>ſence in the Euchariſt, prayer to Angels and Saints departed, &amp;c. <hi>Putting</hi> a painted Gloſs upon the foul face of Popery, to make it appear otherwiſe then it is; <hi>Making</hi> much mention of a <hi>ſweet ſpirit, tenderneſs, humility, mutual Love, &amp;c.</hi> meerly to abuſe the people of this Commonwealth; for the world knows, that thoſe vertues never appeared in Papiſts toward Chriſtians of a different Belief, who are not (that we know of) tolerated to profeſs their Re<g ref="char:EOLhyphen"/>ligion among them, except by the atchievement of the Sword taken up in their defence againſt Popiſh cruel<g ref="char:EOLhyphen"/>ties: Nor doth the Author in the leaſt demonſtrate <hi>how the Proteſtants may be aſſured of a Toleration, in caſe the Papiſts ſhall at any time become the major part,</hi> as be<g ref="char:EOLhyphen"/>ing impoſſible for him or any others ſo to do, until a Popiſh-General-Councel ſhall cancel ſome of their Points of Faith about the Popes Supremacy, and Churches Infallibility; which Points all Papiſts muſt
+<pb n="14" facs="tcp:114663:8"/>
+and do believe, notwithſtanding any thing they ſhall ſay to the contrary.</p>
+            <p>
+               <hi>The Names and Blaſphemies of ſome Books not</hi> Popiſh.</p>
+            <p>HOBS his LEVIATHAN, Affirms,</p>
+            <p>That <hi>all they to whom God hath not ſupernaturally re<g ref="char:EOLhyphen"/>vealed the Scriptures, are not obliged to obey them by any other Authority then that of the Commonwealth reſiding in the Soveraign, who only hath the Legiſlative power:</hi> p. 205.</p>
+            <p>That <hi>the Kingdom of God we pray for in the Lords Prayer, when we ſay,</hi> Thy Kingdom come, <hi>is nothing elſe but a Civil Kingdom, governed by Gods Lievtenants and Vicars upon Earth, and not a Spiritual:</hi> That <hi>the preach<g ref="char:EOLhyphen"/>ing of the Apoſtles was the preaching of this Kingdom:</hi> p. 219. 220.</p>
+            <p>That <hi>God hath a Soveraign Prophet and Vicegerent up<g ref="char:EOLhyphen"/>on Earth, who is a Chriſtian Soveraign, that hath next un<g ref="char:EOLhyphen"/>der God the Authority of governing Chriſtian men;</hi> and that <hi>by the Doctrine which in the Name of God he com<g ref="char:EOLhyphen"/>mands to be taught as a ſure Rule, we are to examine and try the truth of ſuch Doctrines as ſhall be advanced either with Miracles or without;</hi> and that <hi>if the Soveraign diſ<g ref="char:EOLhyphen"/>avow them, then we are no more to obey their voyce:</hi> p. 232.</p>
+            <p>That <hi>the immortal Soul begins not in a man till the Re<g ref="char:EOLhyphen"/>ſurrection:</hi> p. 241.</p>
+            <p>That <hi>the Tormentors of the damned, which the Scrip<g ref="char:EOLhyphen"/>ture calleth</hi> Satan, Devil, Abaddon, <hi>are not any indivi<g ref="char:EOLhyphen"/>dual perſon, but an office and quality;</hi> and that <hi>by Satan is meant any earthly Enemy of the Church:</hi> p. 244.</p>
+            <p>That <hi>the Torments of the damned after the Reſurrecti<g ref="char:EOLhyphen"/>on, ſhall be ſuch an earthly miſery as many men now endure that are alive;</hi> that <hi>this miſery ſhall be but for a time, and
+<pb n="15" facs="tcp:114663:8"/>
+that they ſhall then dye again, and be annihilated:</hi> p. 245.</p>
+            <p>That <hi>If our Prince co<g ref="char:cmbAbbrStroke">̄</g>mand us to ſay with our tongue,</hi> We beleeve not in Chriſt, <hi>we muſt obey the Prince;</hi> and that <hi>whatſoever a Subject is compelled to in obedience to his So<g ref="char:EOLhyphen"/>veraign, and doth it not in order to his own mind, but in order to the Laws of is Country, that action is not his, but his Soveraigns; nor is it he that in this caſe denyeth Chriſt before men, but his Governor, and the Law of his Country:</hi> p. 271.</p>
+            <p>Aſſerts, that <hi>there have been no Martyrs ſince the Apoſtles days, but many have needleſly caſt away their lives:</hi> p. 273.</p>
+            <p>That <hi>actions of men can never be unlawful or ſinful, but when they are againſt the Law of the Commonwealth:</hi> p. 279. Denying, that <hi>the New Teſtament is in any place to any perſon a Law, where the Law of that Common<g ref="char:EOLhyphen"/>wealth hath not made it ſo,</hi> p. 284. And as much he ſaith of the whole Scripture elſewhere: with a great deal more of ſuch Blaſphemous Stuff.</p>
+            <p>
+               <hi>A Teſtimony to an Approaching Glory,</hi> by <hi>Joſhua Sprigge:</hi>
+            </p>
+            <p>Aſſerting, That <hi>the Sufferings of Chriſt for us were as it were but a Parable, and that Gods heart was not ſet upon the very having a little Blood for the ſins of the people;</hi> but taking <hi>that Blood, ſpeaks</hi> thereby <hi>to our Childiſh<g ref="char:EOLhyphen"/>neſs, who could not ſee how there could be a Reconciliation without Blood:</hi> p. 53.</p>
+            <p>That <hi>crucifying old Adams righteouſneſs, is a greater Sacrifice to God then the very ſacrificing of the fleſh of Chriſt:</hi> p. 54.</p>
+            <p>That <hi>the Humanity of Chriſt is a Form wherein God appears to the world; there is a higher thing then Belee<g ref="char:EOLhyphen"/>ving,
+<pb n="16" facs="tcp:114663:9"/>
+and that is ſeeing and knowing the Father without a Form, manifeſting and revealing himſelf in his own imme<g ref="char:EOLhyphen"/>diate Light; this I deſire you to wait for, ſeek for, preſs to<g ref="char:EOLhyphen"/>wards,</hi> p. 56. And that <hi>So a Beleever doth when he goeth to God in the ſame Unction that was poured upon Chriſt Jeſus, and doth not formally make uſe of the Name of Chriſt, as a man would uſe the name of ſome great man, and beg for his ſake,</hi> p. 58. Calls it <hi>weakneſs to think that Chriſt doth procure the love of the Father,</hi> p. 59.</p>
+            <p>The <hi>Racovian Catechiſm,</hi> printed (as in Latin, ſo al<g ref="char:EOLhyphen"/>ſo) in Engliſh: Denying the Divinity of Chriſt, and the Divinity and Perſonality of the Holy Ghoſt, that Chriſt made Satisfaction for our ſins: with many o<g ref="char:EOLhyphen"/>ther abominable Errors.</p>
+            <p>A Book written by <hi>Biddle,</hi> maintaining that <hi>the Holy Ghoſt is not God.</hi>
+            </p>
+            <p>Concerning which two laſt Books, namely, the ſaid Catechiſm in Latin (not Engliſh) and <hi>Biddle</hi>'s Book, we cannot but thankfully acknowledg that the Parlia<g ref="char:EOLhyphen"/>ment have ſhew'd their diſlike of them, by cauſing a few that could be taken to be burnt: But alas, there is no ſtanding penal Law (that gives ſufficient encourage<g ref="char:EOLhyphen"/>ment to the Proſecutor, and inveſteth the Maſter and Wardens of the Company of <hi>Stationers,</hi> or ſome others, with ſufficient Authority) to deter men from Wri<g ref="char:EOLhyphen"/>ting, Printing and Publiſhing the like for the future; whereby it comes to paſs, that ſince the execution of that Juſtice ſome have preſumed to publiſh the fore<g ref="char:EOLhyphen"/>ſaid <hi>Catechiſm</hi> in Engliſh, <hi>in affront to the Parliament, and chiefly to the Lord Jeſus, who is the true God and E<g ref="char:EOLhyphen"/>ternal Life, to him be Glory both now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
